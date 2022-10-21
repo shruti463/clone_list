@@ -15,3 +15,12 @@ How the site looks like.
 
 How we want it to look like.
 ![image](https://user-images.githubusercontent.com/65339232/197139947-9f5f3269-af08-4f67-a0e9-720d4d73e4a5.png)
+
+Tech stack
+Python
+DJANGO
+Materialize UI
+CSS
+HTML
+PyCharm IDE
+
